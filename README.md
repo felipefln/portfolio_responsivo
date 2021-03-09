@@ -10,6 +10,7 @@ Todo conteúdo escrito, veio a partir do geradordelerolero.com.
 
   - HTML
   - CSS(Media Query)
+  - Mobile First
   - Responsive Design
   - Boxicons
   - ScrollReveal
