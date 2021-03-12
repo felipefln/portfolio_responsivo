@@ -228,9 +228,10 @@ img {
 
 .home__img {
   position: absolute;
-  right: 35px;
-  bottom: 55px;
-  width: 295px;
+  bottom: 2%;
+  left: 60px;
+  width: 70%;
+  
 }
 
 .img_perfil {
