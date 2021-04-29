@@ -229,7 +229,7 @@ img {
 .home__img {
   position: absolute;
   bottom: 2%;
-  left: 60px;
+  left: 60%;
   width: 70%;
   
 }
@@ -485,10 +485,6 @@ img {
     margin-bottom: 0;
     margin-right: var(--mb-4);
   }
-  /* .home__img{
-    width: 457px;
-    bottom: 15%;
-  } */
 
   .about__container, .skills__container{
     grid-template-columns: repeat(2,1fr);
