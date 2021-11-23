@@ -226,13 +226,16 @@ img {
   color: var(--first-color);
 }
 
-.home__img {
-  position: absolute;
-  bottom: 2%;
-  left: 60%;
-  width: 70%;
-  
+@media screen and (min-width: 768px) {
+  .home__img {
+    position: absolute;
+    bottom: 2%;
+    left: 60%;
+    width: 70%;
+  }
+
 }
+  
 
 .img_perfil {
   border-radius: 1em;
